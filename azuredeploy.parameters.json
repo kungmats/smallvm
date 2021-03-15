@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "mats"
+      "value": "användare"
     },
     "adminPassword": {
-      "value": "Sommar2021!!!"
+      "value": "S"
     },
     "dnsLabelPrefix": {
-      "value": "testmats"
+      "value": "dnsnamn"
     }
   }
 }
